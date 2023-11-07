@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats-self-gamma.vercel.app/api/top-langs/?username=yaroslavevg&hide=roff,awk,qmake,cmake&layout=compact&langs_count=80)
+![Top Langs](https://github-readme-stats-self-gamma.vercel.app/api/top-langs/?username=yaroslavevg&hide=roff,awk,qmake,cmake,makefile,dockerfile&layout=compact&langs_count=80)
 
 <!--&langs_count=80
 ![Anurag's GitHub stats](https://github-readme-stats-self-gamma.vercel.app/api?username=yaroslavevg&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
