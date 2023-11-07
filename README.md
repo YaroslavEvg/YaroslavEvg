@@ -1,4 +1,7 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats-self-gamma.vercel.app/api?username=yaroslavevg&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Top Langs](https://github-readme-stats-self-gamma.vercel.app/api/top-langs/?username=yaroslavevg&langs_count=80)
+
 
 <!--
 **YaroslavEvg/YaroslavEvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
