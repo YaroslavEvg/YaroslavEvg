@@ -1,18 +1,16 @@
- 
-![Skills](http://yaroslavevg.ru:32456/generate_graph_school21?theme=dark)
-![Top Langs](http://yaroslavevg.ru:35879/top-langs/?username=yaroslavevg&layout=compact&langs_count=80&theme=vision-friendly-dark)<br>
-<!--&langs_count=80
-![Anurag's GitHub stats](https://github-readme-stats-self-gamma.vercel.app/api?username=yaroslavevg&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-**YaroslavEvg/YaroslavEvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <a href="https://t.me/yaroslavevg" target="_blank">
+    <img src="misc/images/telegram.png" width="40" height="40" alt="Перейти в Telegram"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <img height="195px" alt="Skills lerned School 21" src="http://yaroslavevg.ru:32456/generate_graph_school21?theme=dark" />
+    </td>
+    <td>
+      <img height="195px" alt="Github Languages" src="http://yaroslavevg.ru:35879/top-langs/?username=yaroslavevg&layout=compact&langs_count=80&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
