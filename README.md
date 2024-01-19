@@ -36,6 +36,12 @@
 <div id="badges" style="margin-top:20px;">
   <a href="https://t.me/yaroslavevg" target="_blank">
     <img src="misc/images/telegram.png" width="40" height="40" alt="Перейти в Telegram"/>
-  </a><br>
+  </a>
+  
+  <a href="https://t.me/yaroslavevg" target="_blank">
+    <img src="misc/badges/linkedin.png" width="40" height="40" alt="Перейти в LinkedIn"/>
+  </a>
+  
+  <br>
   <img src="https://komarev.com/ghpvc/?username=yaroslavevg&label=Profile%20views&color=0e75b6&style=plastic" alt="yaroslavevg"/>
 </div>
