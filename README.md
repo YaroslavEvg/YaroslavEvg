@@ -1,13 +1,16 @@
 <table>
   <tr>
     <td>
-      <img alt="Skills lerned School 21" src="https://skills.yaroslavevg.ru/?theme=dark" />
+      <img alt="Skills learned School 21" src="https://skills.yaroslavevg.ru/?theme=dark" />
     </td>
+  </tr>
+  <tr>
     <td>
       <img height="260px" alt="Github Languages" src="https://top-langs.yaroslavevg.ru/top-langs/?username=yaroslavevg&layout=compact&langs_count=80&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
+
 
 <div style="display:flex; flex-wrap:wrap; gap:10px; padding:10px;">
  <img src="misc/badges/vscode.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
