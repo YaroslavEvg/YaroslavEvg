@@ -55,5 +55,5 @@
   <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="SkillTechArena"/>
   Канал <a href="https://t.me/SkillTechArena" target="_blank">SkillTechArena</a>
 </div>
-
+<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=yaroslavevg&label=Profile%20views&color=0e75b6&style=plastic)
