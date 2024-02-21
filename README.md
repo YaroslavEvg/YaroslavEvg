@@ -41,8 +41,19 @@
 
 ## Контакты
 
-- **Telegram**: [yaroslavevg](https://t.me/yaroslavevg)
-- **LinkedIn**: [yaroslavevg](https://www.linkedin.com/in/yaroslavevg)
-- **SkillTechArena**: [SkillTechArena](https://t.me/SkillTechArena)
+<div style="display:flex; align-items:center; gap:10px;">
+  <img src="misc/images/telegram.png" width="20" height="20" alt="Telegram"/>
+  Telegram <a href="https://t.me/yaroslavevg" target="_blank">YaroslavEvg</a>
+</div>
+
+<div style="display:flex; align-items:center; gap:10px;">
+  <img src="misc/badges/linkedin.png" width="20" height="20" alt="LinkedIn"/>
+  LinkedIn <a href="https://www.linkedin.com/in/yaroslavevg" target="_blank">YaroslavEvg</a>
+</div>
+
+<div style="display:flex; align-items:center; gap:10px;">
+  <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="SkillTechArena"/>
+  Канал <a href="https://t.me/SkillTechArena" target="_blank">SkillTechArena</a>
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yaroslavevg&label=Profile%20views&color=0e75b6&style=plastic)
