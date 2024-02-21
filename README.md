@@ -1,16 +1,19 @@
+## Навыки
+
 <table>
   <tr>
     <td>
-      <img alt="Skills learned School 21" src="https://skills.yaroslavevg.ru/?theme=dark" />
+      <img src="https://skills.yaroslavevg.ru/?theme=dark" alt="Skills learned at School 21" />
     </td>
   </tr>
   <tr>
     <td>
-      <img height="260px" alt="Github Languages" src="https://top-langs.yaroslavevg.ru/top-langs/?username=yaroslavevg&layout=compact&langs_count=80&theme=vision-friendly-dark" />
+      <img src="https://top-langs.yaroslavevg.ru/top-langs/?username=yaroslavevg&layout=compact&langs_count=80&theme=vision-friendly-dark" alt="Github Languages" height="260px" />
     </td>
   </tr>
 </table>
 
+## Технологический стек
 
 <div style="display:flex; flex-wrap:wrap; gap:10px; padding:10px;">
  <img src="misc/badges/vscode.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
@@ -36,15 +39,10 @@
   <img src="misc/badges/markdown.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp
 </div>
 
-<div id="badges" style="margin-top:20px;">
-  <a href="https://t.me/yaroslavevg" target="_blank">
-    <img src="misc/images/telegram.png" width="40" height="40" alt="Перейти в Telegram"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/yaroslavevg" target="_blank">
-    <img src="misc/badges/linkedin.png" width="40" height="40" alt="Перейти в LinkedIn"/>
-  </a>
-  
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=yaroslavevg&label=Profile%20views&color=0e75b6&style=plastic" alt="yaroslavevg"/>
-</div>
+## Контакты
+
+- **Telegram**: [yaroslavevg](https://t.me/yaroslavevg)
+- **LinkedIn**: [yaroslavevg](https://www.linkedin.com/in/yaroslavevg)
+- **SkillTechArena**: [SkillTechArena](https://t.me/SkillTechArena)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yaroslavevg&label=Profile%20views&color=0e75b6&style=plastic)
