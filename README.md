@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://skills.yaroslavevg.ru/?theme=dark" alt="Skills learned at School 21" />
+      <img src="https://skills.yaroslavevg.ru/nickname/desperos?theme=dark" alt="Skills learned at School 21" />
     </td>
   </tr>
   <tr>
