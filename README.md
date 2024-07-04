@@ -57,7 +57,7 @@
 </div>
 
 <div style="display:flex; align-items:center; gap:10px;">
-  <img src="misc/images/S21_MSK_Events.png" width="20" height="20" alt="S21 MSK Events"/>
+  <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="S21 MSK Events"/>
   Канал <a href="https://t.me/SkillTechArena" target="_blank">S21_MSK_Events</a>
 </div>
 <br>
