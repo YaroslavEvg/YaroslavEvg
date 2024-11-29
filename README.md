@@ -63,7 +63,7 @@
 
 <div style="display:flex; align-items:center; gap:10px;">
   <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="S21 MSK Events"/>
-  Проект <a href="https://desperos.ru" target="_blank">S21_MSK_Events</a>
+  Проект <a href="https://desperos.ru" target="_blank">desperos.ru</a>
 </div>
 <br>
 
