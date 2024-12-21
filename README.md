@@ -40,6 +40,10 @@
 </div>
 
 ## Контакты
+<div style="display:flex; align-items:center; gap:10px;">
+  <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="Telegram"/>
+  Eduacation <a href="https://github.com/YaroslavEvg/YaroslavEvg/blob/main/Certificate%20School21%20eduacation.pdf" target="_blank">Certificate School21 eduacation</a>
+</div>
 
 <div style="display:flex; align-items:center; gap:10px;">
   <img src="misc/images/telegram.png" width="20" height="20" alt="Telegram"/>
