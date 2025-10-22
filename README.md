@@ -69,6 +69,12 @@
   <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="S21 MSK Events"/>
   Проект <a href="https://desperos.ru" target="_blank">desperos.ru</a>
 </div>
+
+<div style="display:flex; align-items:center; gap:10px;">
+  <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="MonitorinRF"/>
+  Проект <a href="https://t.me/MonitorinRF" target="_blank">MonitorinRF</a>
+</div>
+
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yaroslavevg&label=Profile%20views&color=0e75b6&style=plastic)
