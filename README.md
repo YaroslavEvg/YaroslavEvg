@@ -58,6 +58,7 @@
 <div style="display:flex; align-items:center; gap:10px;">
   <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="SkillTechArena"/>
   Канал <a href="https://t.me/SkillTechArena" target="_blank">SkillTechArena</a>
+  Канал в MAX <a href="https://max.ru/join/jWb8V4IKqeHRzQQbR7g9M3z2njiCoicvB9S5ZZaaUxU" target="_blank">SkillTechArena</a>
 </div>
 
 <div style="display:flex; align-items:center; gap:10px;">
