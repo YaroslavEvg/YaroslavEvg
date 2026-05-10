@@ -71,6 +71,7 @@
   Проект <a href="https://desperos.ru" target="_blank">desperos.ru</a>
 </div>
 
+
 <div style="display:flex; align-items:center; gap:10px;">
   <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="MonitorinRF"/>
   Проект <a href="https://t.me/MonitorinRF" target="_blank">MonitorinRF</a>
@@ -79,3 +80,6 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yaroslavevg&label=Profile%20views&color=0e75b6&style=plastic)
+
+Рекомендация по хостингу:<br>
+<a href="https://beget.com/?id=2606789" target="_blank"><img src="https://cp.beget.com/promo_data/static/static100x100_6.png" border="0"></a>
