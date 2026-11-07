@@ -16,12 +16,29 @@
 
 **Открыть проект** · [pdlc.yaroslavevg.ru](https://pdlc.yaroslavevg.ru/) · [pslc.yaroslavevg.ru](https://pslc.yaroslavevg.ru/)
 
-### Другие проекты
+### <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="" /> Desperos
 
-- <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="" /> [desperos.ru](https://desperos.ru)
-- <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="" /> [MonitorinRF](https://t.me/MonitorinRF)
-- <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="" /> **SkillTechArena** · [Telegram](https://t.me/SkillTechArena) · [MAX](https://max.ru/join/jWb8V4IKqeHRzQQbR7g9M3z2njiCoicvB9S5ZZaaUxU)
-- <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="" /> [S21_MSK_Events в Telegram](https://t.me/S21_MSK_Events)
+Веб-сервис для студентов Школы 21. Вход доступен только студентам школы по нику на учебной платформе.
+
+**Открыть проект** · [desperos.ru](https://desperos.ru/)
+
+### <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="" /> MonitorinRF
+
+Telegram-канал для мониторинга новостей о российских публичных компаниях. В сводках по тикерам GigaChat разбирает возможное влияние новостей на прибыль и дивиденды и выделяет риски.
+
+**Открыть канал** · [Telegram](https://t.me/MonitorinRF)
+
+### <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="" /> SkillTechArena
+
+Личный блог о профессиональном развитии в IT. Пишу об учёбе в Школе 21, автоматизации рабочих задач и применении ИИ в проектах.
+
+**Читать блог** · [Telegram](https://t.me/SkillTechArena) · [MAX](https://max.ru/join/jWb8V4IKqeHRzQQbR7g9M3z2njiCoicvB9S5ZZaaUxU)
+
+### <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="" /> S21_MSK_Events
+
+Telegram-канал с уведомлениями о митапах, встречах клубов и других событиях московского кампуса Школы 21. Публикации обновляются при изменениях в расписании и содержат время, место и ссылку на запись.
+
+**Открыть канал** · [Telegram](https://t.me/S21_MSK_Events)
 
 ## Навыки
 
