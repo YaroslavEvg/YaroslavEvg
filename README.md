@@ -1,85 +1,89 @@
+<h1 align="center">Ярослав · @YaroslavEvg</h1>
+<p align="center"><strong>Разработка · DevOps · Учебные проекты</strong></p>
+<p align="center">
+  <a href="#проекты">Проекты</a> ·
+  <a href="#навыки">Навыки</a> ·
+  <a href="#технологический-стек">Технологический стек</a> ·
+  <a href="#образование">Образование</a> ·
+  <a href="#контакты-и-каналы">Контакты и каналы</a>
+</p>
+
+## Проекты
+
+### Поиск по AI-Disrupt PDLC и PSLC
+
+Новый независимый учебный RAG-проект для поиска по руководствам о разработке и сопровождении цифровых продуктов. Для выбранных тем доступны ответы по авторским заметкам со ссылками на страницы оригиналов.
+
+**Открыть проект** · [pdlc.yaroslavevg.ru](https://pdlc.yaroslavevg.ru/) · [pslc.yaroslavevg.ru](https://pslc.yaroslavevg.ru/)
+
+### Другие проекты
+
+- <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="" /> [desperos.ru](https://desperos.ru)
+- <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="" /> [MonitorinRF](https://t.me/MonitorinRF)
+
 ## Навыки
 
-<table>
-  <tr>
-    <td>
-      <img src="https://skills.yaroslavevg.ru/nickname/desperos?theme=dark" alt="Skills learned at School 21" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://top-langs.yaroslavevg.ru/top-langs/?username=yaroslavevg&layout=compact&langs_count=80&theme=vision-friendly-dark" alt="Github Languages" height="260px" />
-    </td>
-  </tr>
-</table>
+### Школа 21
+
+![Навыки, полученные в Школе 21](https://skills.yaroslavevg.ru/nickname/desperos?theme=dark)
+
+### Языки в репозиториях GitHub
+
+![Статистика языков в репозиториях GitHub](https://top-langs.yaroslavevg.ru/top-langs/?username=yaroslavevg&layout=compact&langs_count=80&theme=vision-friendly-dark)
 
 ## Технологический стек
 
-<div style="display:flex; flex-wrap:wrap; gap:10px; padding:10px;">
- <img src="misc/badges/vscode.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  <img src="misc/badges/ssh.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp
-  <img src="misc/badges/gitlab.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
-  <img src="misc/badges/kubernetes.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp
-  <img src="misc/badges/argocd.svg" title="argocd" alt="argocd" width="40" height="40"/>&nbsp
-  <img src="misc/badges/docker.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
-  <img src="misc/badges/centos.svg" title="centos" alt="centos" width="40" height="40"/>&nbsp
-  <img src="misc/badges/grafana.svg" title="grafana" alt="grafana" width="40" height="40"/>&nbsp
-  <img src="misc/badges/prometheus.svg" title="prometheus" alt="prometheus" width="40" height="40"/>&nbsp
-  <img src="misc/badges/postgresql.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
-  <img src="misc/badges/bash.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
-  <img src="misc/badges/c.svg" title="c" alt="c" width="40" height="40"/>&nbsp
-  <img src="misc/badges/cplusplus.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp
-  <img src="misc/badges/qt.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp
-  <img src="misc/badges/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="misc/badges/flask.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp
-  <img src="misc/badges/javascript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="misc/badges/jquery.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp
-  <img src="misc/badges/confluence.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp
-  <img src="misc/badges/jira.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="misc/badges/markdown.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp
-</div>
+**Языки, фреймворки и библиотеки**
 
-## Контакты
-<div style="display:flex; align-items:center; gap:10px;">
-  <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="Telegram"/>
-  Eduacation <a href="https://github.com/YaroslavEvg/YaroslavEvg/blob/main/Certificate%20School21%20eduacation.pdf" target="_blank">Certificate School21 eduacation</a>
-</div>
+<p>
+  <img src="misc/badges/c.svg" title="C" alt="C" width="36" height="36" />
+  <img src="misc/badges/cplusplus.svg" title="C++" alt="C++" width="36" height="36" />
+  <img src="misc/badges/qt.svg" title="Qt" alt="Qt" width="36" height="36" />
+  <img src="misc/badges/python.svg" title="Python" alt="Python" width="36" height="36" />
+  <img src="misc/badges/flask.svg" title="Flask" alt="Flask" width="36" height="36" />
+  <img src="misc/badges/javascript.svg" title="JavaScript" alt="JavaScript" width="36" height="36" />
+  <img src="misc/badges/jquery.svg" title="jQuery" alt="jQuery" width="36" height="36" />
+</p>
 
-<div style="display:flex; align-items:center; gap:10px;">
-  <img src="misc/images/telegram.png" width="20" height="20" alt="Telegram"/>
-  Telegram <a href="https://t.me/yaroslavevg" target="_blank">YaroslavEvg</a>
-</div>
+**Инфраструктура и мониторинг**
 
-<div style="display:flex; align-items:center; gap:10px;">
-  <img src="misc/badges/linkedin.png" width="20" height="20" alt="LinkedIn"/>
-  LinkedIn <a href="https://www.linkedin.com/in/yaroslavevg" target="_blank">YaroslavEvg</a>
-</div>
+<p>
+  <img src="misc/badges/docker.svg" title="Docker" alt="Docker" width="36" height="36" />
+  <img src="misc/badges/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="36" height="36" />
+  <img src="misc/badges/argocd.svg" title="Argo CD" alt="Argo CD" width="36" height="36" />
+  <img src="misc/badges/centos.svg" title="CentOS" alt="CentOS" width="36" height="36" />
+  <img src="misc/badges/grafana.svg" title="Grafana" alt="Grafana" width="36" height="36" />
+  <img src="misc/badges/prometheus.svg" title="Prometheus" alt="Prometheus" width="36" height="36" />
+  <img src="misc/badges/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="36" height="36" />
+  <img src="misc/badges/bash.svg" title="Bash" alt="Bash" width="36" height="36" />
+  <img src="misc/badges/ssh.svg" title="SSH" alt="SSH" width="36" height="36" />
+</p>
 
-<div style="display:flex; align-items:center; gap:10px;">
-  <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="SkillTechArena"/>
-  Канал <a href="https://t.me/SkillTechArena" target="_blank">SkillTechArena</a>
-  Канал в MAX <a href="https://max.ru/join/jWb8V4IKqeHRzQQbR7g9M3z2njiCoicvB9S5ZZaaUxU" target="_blank">SkillTechArena</a>
-</div>
+**Инструменты и документация**
 
-<div style="display:flex; align-items:center; gap:10px;">
-  <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="S21 MSK Events"/>
-  Канал <a href="https://t.me/S21_MSK_Events" target="_blank">S21_MSK_Events</a>
-</div>
+<p>
+  <img src="misc/badges/vscode.svg" title="Visual Studio Code" alt="Visual Studio Code" width="36" height="36" />
+  <img src="misc/badges/gitlab.svg" title="GitLab" alt="GitLab" width="36" height="36" />
+  <img src="misc/badges/jira.svg" title="Jira" alt="Jira" width="36" height="36" />
+  <img src="misc/badges/confluence.svg" title="Confluence" alt="Confluence" width="36" height="36" />
+  <img src="misc/badges/markdown.svg" title="Markdown" alt="Markdown" width="36" height="36" />
+</p>
 
-<div style="display:flex; align-items:center; gap:10px;">
-  <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="S21 MSK Events"/>
-  Проект <a href="https://desperos.ru" target="_blank">desperos.ru</a>
-</div>
+## Образование
 
+<img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="" /> [Сертификат Школы 21](Certificate%20School21%20eduacation.pdf)
 
-<div style="display:flex; align-items:center; gap:10px;">
-  <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="MonitorinRF"/>
-  Проект <a href="https://t.me/MonitorinRF" target="_blank">MonitorinRF</a>
-</div>
+## Контакты и каналы
 
-<br>
+- <img src="misc/images/telegram.png" width="20" height="20" alt="" /> [Telegram · @YaroslavEvg](https://t.me/yaroslavevg)
+- <img src="misc/badges/linkedin.png" width="20" height="20" alt="" /> [LinkedIn · YaroslavEvg](https://www.linkedin.com/in/yaroslavevg)
+- <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="" /> **SkillTechArena** · [Telegram](https://t.me/SkillTechArena) · [MAX](https://max.ru/join/jWb8V4IKqeHRzQQbR7g9M3z2njiCoicvB9S5ZZaaUxU)
+- <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="" /> [S21_MSK_Events в Telegram](https://t.me/S21_MSK_Events)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yaroslavevg&label=Profile%20views&color=0e75b6&style=plastic)
+---
 
-Рекомендация по хостингу:<br>
-<a href="https://beget.com/?id=2606789" target="_blank"><img src="https://cp.beget.com/promo_data/static/static100x100_6.png" border="0"></a>
+![Просмотры профиля](https://komarev.com/ghpvc/?username=yaroslavevg&label=Profile%20views&color=0e75b6&style=plastic)
+
+**Рекомендация по хостингу**
+
+[![Хостинг Beget](https://cp.beget.com/promo_data/static/static100x100_6.png)](https://beget.com/?id=2606789)
