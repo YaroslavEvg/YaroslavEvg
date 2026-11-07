@@ -5,7 +5,7 @@
   <a href="#навыки">Навыки</a> ·
   <a href="#технологический-стек">Технологический стек</a> ·
   <a href="#образование">Образование</a> ·
-  <a href="#контакты-и-каналы">Контакты и каналы</a>
+  <a href="#контакты">Контакты</a>
 </p>
 
 ## Проекты
@@ -20,6 +20,8 @@
 
 - <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="" /> [desperos.ru](https://desperos.ru)
 - <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="" /> [MonitorinRF](https://t.me/MonitorinRF)
+- <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="" /> **SkillTechArena** · [Telegram](https://t.me/SkillTechArena) · [MAX](https://max.ru/join/jWb8V4IKqeHRzQQbR7g9M3z2njiCoicvB9S5ZZaaUxU)
+- <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="" /> [S21_MSK_Events в Telegram](https://t.me/S21_MSK_Events)
 
 ## Навыки
 
@@ -73,12 +75,10 @@
 
 <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="" /> [Сертификат Школы 21](Certificate%20School21%20eduacation.pdf)
 
-## Контакты и каналы
+## Контакты
 
 - <img src="misc/images/telegram.png" width="20" height="20" alt="" /> [Telegram · @YaroslavEvg](https://t.me/yaroslavevg)
 - <img src="misc/badges/linkedin.png" width="20" height="20" alt="" /> [LinkedIn · YaroslavEvg](https://www.linkedin.com/in/yaroslavevg)
-- <img src="misc/images/SkillTechArena.jpg" width="20" height="20" alt="" /> **SkillTechArena** · [Telegram](https://t.me/SkillTechArena) · [MAX](https://max.ru/join/jWb8V4IKqeHRzQQbR7g9M3z2njiCoicvB9S5ZZaaUxU)
-- <img src="misc/images/S21_MSK_Events.jpg" width="20" height="20" alt="" /> [S21_MSK_Events в Telegram](https://t.me/S21_MSK_Events)
 
 ---
 
