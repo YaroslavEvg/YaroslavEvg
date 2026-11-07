@@ -1,5 +1,5 @@
 <h1 align="center">Ярослав · @YaroslavEvg</h1>
-<p align="center"><strong>Разработка · DevOps · Учебные проекты</strong></p>
+<p align="center"><strong>Разработка · DevOps · Сопровождение и SRE · Учебные проекты</strong></p>
 <p align="center">
   <a href="#проекты">Проекты</a> ·
   <a href="#навыки">Навыки</a> ·
